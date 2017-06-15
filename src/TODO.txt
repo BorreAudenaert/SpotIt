@@ -1,0 +1,20 @@
+TODO
+********************************************************************************
+-- betekent nog te doen
+++ betekent dat het gebeurt is
+********************************************************************************
+-- Converteren naar GSM
+    -- Eerst volledig afwerken op pc?
+-- Actuele locatie toevoegen
+-- Foto als bewijs
+-- Linken met database
+    -- Database maken
+    -- Linken
+    -- 24/7 online zijn
+-- Zoeken in database naar gespotte celebs
+********************************************************************************
+VERRE TODO (verre toekomst)
+-- Tijdlijn maken met gespotte celebs
+    -- Reacties plaatsen? Liken?
+    -- Locatie updaten? Vb iemand gespot om 10u op locatie X -> iemand spot zelfde pers op locatie Y om 11u
+
